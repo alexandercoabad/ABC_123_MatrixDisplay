@@ -17,4 +17,4 @@ Based from James Ross Matrix Display https://tinytapeout.com/chips/ttsky25a/tt_u
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+VGA
