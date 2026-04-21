@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Based from James Ross Matrix Display https://tinytapeout.com/chips/ttsky25a/tt_um_vga_glyph_mode
 
 ## How to test
 
-Explain how to use your project
+[Explain how to use your project](https://tinytapeout.com/chips/ttsky25a/tt_um_vga_glyph_mode)
 
 ## External hardware
 
