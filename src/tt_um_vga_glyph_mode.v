@@ -81,7 +81,7 @@ module tt_um_vga_glyph_mode(
 
 	//wire [5:0] glyph_index = (yb + xb) % 6'd19;
 	//wire [5:0] glyph_index = (yb + xb) % 6'd30;
-	wire [5:0] glyph_index = (yb + xb) % 6'd63;
+	wire [5:0] glyph_index = (yb + xb) % 6'd38;
 	
 	wire [1:0] a = xb[1:0];
 	wire [3:0] b = xb[5:2];
