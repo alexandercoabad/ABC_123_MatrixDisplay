@@ -15,11 +15,13 @@ https://github.com/user-attachments/assets/4a0a5c7e-606f-47e8-84d2-c81142dcafcf
 
 
 ## Layout
-<img width="1010" height="696" alt="Screenshot 2026-04-17 at 7 18 29 PM" src="https://github.com/user-attachments/assets/3e98789b-8d07-4b0a-923c-6aa690f7c9e8" />
+<img width="682" height="474" alt="Screenshot 2026-04-21 at 11 24 49 AM" src="https://github.com/user-attachments/assets/f6a713f0-3eb4-474d-9afe-fd3638590a9b" />
 
-<img width="857" height="600" alt="Screenshot 2026-04-17 at 7 18 04 PM" src="https://github.com/user-attachments/assets/81b6f3a3-f437-4088-bbf0-0fa62c83edd5" />
+<img width="907" height="635" alt="Screenshot 2026-04-21 at 11 25 49 AM" src="https://github.com/user-attachments/assets/df1d5c5e-eed5-41c9-9478-b676f658c414" />
 
-link to 3D viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/Philippine_IC_Design_Boot_Camp_2026/tinytapeout.oas&pdk=sky130A
+
+
+link to 3D viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/ABC_123_MatrixDisplay/tinytapeout.oas&pdk=sky130A
 
 
 ## Set up your Verilog project
