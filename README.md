@@ -1,14 +1,23 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# PHILIPPINE IC DESIGN BOOTCAMP 2026!
 
-based from James Ross 
+based on this https://tinytapeout.com/chips/ttsky25a/tt_um_vga_glyph_mode
 
-## What is Tiny Tapeout?
+Link to actual VGA Playground https://vga-playground.com/?repo=https://github.com/alexandercoabad/Philippine_IC_Design_Boot_Camp_2026
 
-Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
 
-To learn more and get started, visit https://tinytapeout.com.
+https://github.com/user-attachments/assets/9ca48449-560f-42c0-9914-d90459e284e1
+
+
+
+## Layout
+<img width="1010" height="696" alt="Screenshot 2026-04-17 at 7 18 29 PM" src="https://github.com/user-attachments/assets/3e98789b-8d07-4b0a-923c-6aa690f7c9e8" />
+
+<img width="857" height="600" alt="Screenshot 2026-04-17 at 7 18 04 PM" src="https://github.com/user-attachments/assets/81b6f3a3-f437-4088-bbf0-0fa62c83edd5" />
+
+link to 3D viewer: https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/Philippine_IC_Design_Boot_Camp_2026/tinytapeout.oas&pdk=sky130A
+
 
 ## Set up your Verilog project
 
