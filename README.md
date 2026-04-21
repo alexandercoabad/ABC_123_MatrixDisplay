@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# PHILIPPINE IC DESIGN BOOTCAMP 2026!
+# ABC-123 Matrix Display
 
 based on this https://tinytapeout.com/chips/ttsky25a/tt_um_vga_glyph_mode
 
