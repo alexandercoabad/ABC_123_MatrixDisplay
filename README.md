@@ -2,7 +2,7 @@
 
 # ABC-123 Matrix Display
 
-based on this https://tinytapeout.com/chips/ttsky25a/tt_um_vga_glyph_mode
+The algorithm is based on this https://tinytapeout.com/chips/ttsky25a/tt_um_vga_glyph_mode developed by James Ross.
 
 This serves as a template for any combination of letters and numbers that you like!
 For example: https://github.com/alexandercoabad/Philippine_IC_Design_Boot_Camp_2026/tree/main
